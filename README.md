@@ -4,18 +4,6 @@ ForoHub es una solución innovadora desarrollada con Spring Boot que facilita la
 
 ---
 
-## **Tabla de Contenidos**
-1. [Introducción](#introducción)
-2. [Características Principales](#características-principales)
-3. [Estructura del Sistema](#estructura-del-sistema)
-4. [Herramientas y Tecnologías](#herramientas-y-tecnologías)
-5. [Guía de Instalación](#guía-de-instalación)
-6. [Principales Endpoints](#principales-endpoints)
-7. [Cómo Contribuir](#cómo-contribuir)
-8. [Licencia](#licencia)
-
----
-
 ## **Introducción**
 ForoHub tiene como objetivo proporcionar una plataforma flexible y segura para el intercambio de ideas y conocimientos a través de foros temáticos. Es ideal para entornos educativos que buscan conectar a estudiantes, profesores y administradores de cursos.
 
@@ -35,8 +23,6 @@ El sistema sigue una arquitectura modular por capas para garantizar su mantenibi
 - **Capa API**: Contiene los controladores REST y las configuraciones relacionadas con la seguridad.
 - **Capa de Negocio**: Administra las entidades principales, los repositorios y los DTOs.
 - **Capa de Infraestructura**: Configura la conexión con la base de datos, gestiona errores y proporciona documentación.
-
-![Diagrama de Arquitectura](path/to/architecture-diagram.png)
 
 ---
 
